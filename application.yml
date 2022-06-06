@@ -12,7 +12,7 @@ management:
         include: health,info 
 info:
   author: Rodrigo Sousa Brasil
-  mail: 
+  mail:  rodrigo.sousabrasil@outlook.com
 server:
   port: ${PORT:9999}
 message: Generic
